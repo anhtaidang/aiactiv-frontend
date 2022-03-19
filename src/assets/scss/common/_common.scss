@@ -1,0 +1,95 @@
+html {
+  font-size: 16px;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.15;
+  text-size-adjust: 100%;
+  color: rgba(24, 24, 25, 0.9);
+}
+
+body {
+  background-color: #fff;
+}
+.w-100 {
+  width: 100% !important;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.pd-5 {
+  padding: 5px;
+}
+.pd-10 {
+  padding: 10px;
+}
+.pd-t-30 {
+  padding-top: 30px;
+}
+.pd-l-40 {
+  padding-left: 40px;
+}
+.pd-r-40 {
+  padding-right: 40px;
+}
+
+.mr-l-5 {
+  margin-left: 5px;
+}
+.mr-t-5 {
+  margin-top: 5px;
+}
+.mr-t-10 {
+  margin-top: 10px;
+}
+.mr-t-15 {
+  margin-top: 15px;
+}
+.mr-t-20 {
+  margin-top: 20px;
+}
+.mr-b-5 {
+  margin-bottom: 5px;
+}
+.mr-r-5 {
+  margin-right: 5px;
+}
+.mr-b-10 {
+  margin-bottom: 10px;
+}
+.mr-b-15 {
+  margin-bottom: 15px;
+}
+.mr-b-20 {
+  margin-bottom: 20px;
+}
+.mr-l-80 {
+  margin-left: 80px !important;
+}
+.action {
+  button {
+    margin-left: 16px;
+  }
+}
+
+.error {
+  color: #ff4d4f;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.srollBox {
+  overflow: scroll;
+  padding: 10px;
+  background-color: #ececec;
+  border: 1px solid #e7e7e7;
+}

@@ -1,0 +1,57 @@
+.ant-input,
+.ant-input-password,
+.ant-input-affix-wrapper {
+  border-radius: 4px;
+  padding: 8px;
+}
+.ant-input-number {
+  border-radius: 4px;
+  padding: 6px;
+}
+.ant-btn {
+  border-radius: 4px;
+  padding: 8px;
+  min-height: 40px;
+}
+.select-custom {
+  &.ant-select {
+    &.ant-select-single {
+      .ant-select-selector {
+        min-height: 40px;
+        .ant-select-selection-search {
+          top: 7px;
+        }
+        .ant-select-selection-item {
+          padding: 4px 0;
+        }
+      }
+    }
+    &.ant-select-multiple {
+      .ant-select-selector {
+        border-radius: 4px;
+        padding: 5px 4px !important;
+      }
+    }
+  }
+}
+
+.ant-form {
+  &.ant-form-vertical {
+    .ant-form-item-label {
+      label {
+        min-height: 44px;
+      }
+    }
+  }
+  .ant-form-item {
+    margin: 0 0 15px;
+    &.action-filter-box {
+      margin-top: 30px;
+    }
+  }
+}
+
+
+.ant-table {
+  border: 1px solid #ebebeb;
+}

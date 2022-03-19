@@ -1,0 +1,8 @@
+# build directory
+/dist
+
+# test coverage directory
+/coverage
+
+# node_modules
+/node_modules

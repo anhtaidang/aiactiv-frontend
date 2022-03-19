@@ -1,0 +1,6 @@
+const appAction = {
+  SET_TREE_STATE_ACTION: "SET_TREE_STATE_ACTION",
+  RESET_TREE_STATE_ACTION: "RESET_TREE_STATE_ACTION",
+};
+
+export default appAction;
