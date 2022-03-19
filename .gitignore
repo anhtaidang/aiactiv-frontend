@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+# NodeJS and Yarn
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/*
+client/**/*.jsx
+tests/__coverage__/
+tests/**/*.jsx
+
